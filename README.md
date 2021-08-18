@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Roberto and I'm 24
+- 🗺 I'm from Italy
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Angular for the FE, Java-EE (Spring boot) fot the BE and mongoDB for the DB part
+- 💼 I'm currently employed byt GPI spa as web developer using these exact technologies 
+- 💞️ I’m looking increase my skills as much as possible and as quick as possible
+- 📫 How to reach me: dellantonio47@gmail.com 
