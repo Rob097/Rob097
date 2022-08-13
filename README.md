@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Roberto and I'm 24
+- 👋 Hi, I’m Roberto and I'm 25
 - 🗺 I'm from Italy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular for the FE, Java-EE (Spring boot) for the BE and mongoDB and oracle for the DB part
+- 👀 I’m interested in software development
+- 🌱 My current working stack is composed by Angular, Java-EE (Spring) and oracle. All deployed with K8s
 - 💼 I'm currently employed by GPI spa as Full Stack web developer using these exact technologies 
-- 💞️ I’m looking increase my skills as much as possible and as quick as possible
+- 💞️ I’m looking for increase my skills as much as possible and as quick as possible
 - 📫 How to reach me: dellantonio47@gmail.com 
