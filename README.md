@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roberto and I'm 26
+- 👋 Hi, I’m Roberto and I'm 27
 - 🗺 I'm from Italy
 - 👀 I’m interested in software development
 - 🌱 My current working stack is composed by ReactJs/NextJs, Java-EE 17 (Spring Boot) and MySql/MariaDB. All deployed with K8s
