@@ -53,7 +53,7 @@ I keep side projects going. Some are experiments, some grew into something real.
 
 ## Stats
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob097&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rob097&theme=dark&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
