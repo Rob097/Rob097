@@ -53,7 +53,7 @@ I keep side projects going. Some are experiments, some grew into something real.
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rob097&theme=dark&short_numbers=true&date_format=j/n%5B/Y%5D)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rob097&theme=dark&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ---
 
